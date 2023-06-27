@@ -1,0 +1,4 @@
+- CSDL: SQL SERVER 2019 (chạy file data.sql)
+- backend: spring boot
+- frontend: npm nodejs
+	+ client: chạy giả lập mobile trên Android Studio
